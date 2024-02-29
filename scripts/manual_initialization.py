@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# THIS IS DR SAEIDI'S CODE, I MADE SOME MINOR TWEAKS
 import rospy
 import math
 # import the messages for reading the joint positions and sending joint commands
